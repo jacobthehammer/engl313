@@ -3,7 +3,6 @@ body {
     background: linear-gradient(0deg, rgba(0,0,15,1) 0%, rgba(0,0,170,1) 100%);
     background-attachment: fixed;
     background-position: bottom;
-    -webkit-font-smoothing: none;
 }
 
 main {
@@ -36,16 +35,16 @@ h1 {
     margin-bottom: 1em;
     margin-left: 0;
     margin-right: 0;
-    font-family: Tahoma, Georgia, 'Times New Roman', Times, serif;
+    font-family: Tahoma, Georgia, 'Times New Roman', Times, sans-serif;
 }
 
 p {
-    font-family: Tahoma, Georgia, 'Times New Roman', Times, serif;
+    font-family: Tahoma, Georgia, 'Times New Roman', Times, sans-serif;
     padding-left: 5%;
 }
 
 .button {
-    font-family: Tahoma, Georgia, 'Times New Roman', Times, serif;
+    font-family: Tahoma, Georgia, 'Times New Roman', Times, sans-serif;
     background-color: rgb(237,235,210);
     border-style: groove;
     border-color: gray;
